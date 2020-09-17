@@ -1,0 +1,22 @@
+.users{
+    color: aliceblue;
+    margin: 10px;
+}
+
+.users img{
+    height: 100px;
+    width: auto;
+}
+
+.users .pages{
+    margin: 4px;
+}
+
+.users .currentPage{
+    font-weight: 900;
+}
+
+.users .simpleUser{
+    margin: 20px;
+    outline: 2px solid #333333;
+}

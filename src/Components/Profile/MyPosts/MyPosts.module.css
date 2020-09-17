@@ -1,0 +1,18 @@
+.posts{
+    margin: 10px;
+}
+
+
+.newPost{
+    margin-top: 30px;
+}    
+
+.myPosts{
+    color: blanchedalmond;
+}
+
+.bold{
+    font: 3em sans-serif;
+    margin-top: 100px;
+    color: orange;
+}

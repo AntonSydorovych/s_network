@@ -1,0 +1,18 @@
+.allPage{
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    color: wheat;
+}
+
+.allPage .allNames a{
+    color: wheat;
+}
+.message{
+    padding: 5px;
+    margin: 5px;
+}
+
+.allMessages{
+
+}
+

@@ -1,0 +1,9 @@
+.name{
+    margin: 5px;
+    padding: 5px;
+}
+
+.name a {
+    text-decoration-line: none;
+    color: black;
+}

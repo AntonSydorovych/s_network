@@ -1,0 +1,8 @@
+export let getUsersFromArray = (state) => {
+    return state.dialogsPage.users
+}
+
+export let getMessages = (state) => {
+    return state.dialogsPage.messages
+}
+

@@ -1,0 +1,10 @@
+/*
+#loginForm{
+    margin-left: 300px;
+}*/
+
+.formSummaryError{
+    color: aliceblue;
+    border: aliceblue 2px solid;
+    font-size: 20px;
+}

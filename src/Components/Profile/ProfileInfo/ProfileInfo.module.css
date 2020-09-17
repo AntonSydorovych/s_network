@@ -1,0 +1,14 @@
+.describtion{
+    color: blanchedalmond;
+    margin: 10px;
+}
+
+img{
+    width: 500px;
+}
+
+.describtion img{
+    height: 200px;
+    width: auto;
+}
+

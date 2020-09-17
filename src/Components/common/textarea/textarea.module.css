@@ -1,0 +1,7 @@
+.formControl.error textarea,
+.formControl.error span
+{
+    border: 2px solid yellowgreen;
+}
+
+
